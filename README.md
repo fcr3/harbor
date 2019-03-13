@@ -2,6 +2,12 @@
 
 Repository for Harbor
 
+## Priority TODO:
+- Edit API Requests
+- Find way to upload images and display nice things
+- Bounding box
+- Edits passings of state 
+
 ## Overview of Project:
 
 This project will serve (at the moment) three purposes:
